@@ -3,8 +3,8 @@ import BinaryMagic from "~/welcome/BinaryMagic";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Binary Card Magic Trick" },
+    { name: "Binary Card Magic Trick - This magic trick or game using binary numbers.", content: "This trick uses binary numbers." },
   ];
 }
 
